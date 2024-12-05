@@ -1,5 +1,3 @@
-# Baseus-Bowie-WM02-Sales-Page
-Sales Page for Baseus Bowie WM02 TWS Bluetooth Earphones
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,8 +14,18 @@ Sales Page for Baseus Bowie WM02 TWS Bluetooth Earphones
       text-align: center;
       margin-bottom: 20px;
     }
+    header img {
+      max-width: 100%;
+      height: auto;
+    }
     .features, .benefits {
       margin: 20px 0;
+    }
+    .features img, .benefits img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 10px auto;
     }
     .buy-now {
       display: block;
@@ -41,6 +49,7 @@ Sales Page for Baseus Bowie WM02 TWS Bluetooth Earphones
 <body>
   <header>
     <h1>Baseus Bowie WM02 TWS Bluetooth Earphones</h1>
+    <img src="product-image.jpg" alt="Baseus Bowie WM02 Earphones">
     <p>Experience sound like never before with cutting-edge Bluetooth 5.3 technology.</p>
   </header>
   
@@ -64,7 +73,7 @@ Sales Page for Baseus Bowie WM02 TWS Bluetooth Earphones
   
   <section class="buy-now">
     <p>Ready to upgrade your listening experience? Order now!</p>
-    <button onclick="window.location.href='https://www.example.com/buy-now';">Buy Now</button>
+    <button onclick="window.location.href='https://shopee.com.my/Baseus-Bowie-WM02-TWS-Bluetooth-Earphones-Stereo-Wireless-5.3-i.1044247772.18291457320?sp_atk=5658517f-4c51-4172-b44a-2d8e8d66d764&xptdk=5658517f-4c51-4172-b44a-2d8e8d66d764';">Buy Now</button>
   </section>
 </body>
 </html>
