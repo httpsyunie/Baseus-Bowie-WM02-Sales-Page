@@ -49,7 +49,7 @@
 <body>
   <header>
     <h1>Baseus Bowie WM02 TWS Bluetooth Earphones</h1>
-    <img src="product-image.jpg" alt="Baseus Bowie WM02 Earphones">
+    <img src="product-image.jpeg" alt="Baseus Bowie WM02 Earphones">
     <p>Experience sound like never before with cutting-edge Bluetooth 5.3 technology.</p>
   </header>
   
